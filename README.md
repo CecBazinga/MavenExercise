@@ -1,0 +1,2 @@
+# MavenExercise
+First maven try
